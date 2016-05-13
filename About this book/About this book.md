@@ -1,4 +1,4 @@
-* 关于本书
+# 关于本书
 
 Hello！本书会教你怎么用Python语言里的Pygame框架（也叫Pygame文库）来制作生动形象的电脑游戏。用Pygame写程序去制作2D图像会很简单。Python和Pygame框架都可以从[此网站](http://python.org和http://pygame.org)上免费下载。你所需要的就是一台电脑和这本书去开始制作你自己的游戏。
 
