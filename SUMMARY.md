@@ -10,6 +10,7 @@ This is the summary of my book.
   * [Mac安装说明](Chapter1_Installing Python and Pygame/04_Mac OS X Instructions.md)
   * [Ubuntu和Linux安装说明](Chapter1_Installing Python and Pygame/05_Ubuntu and Linux Instructions.md)
   * [开始python](Chapter1_Installing Python and Pygame/06_Starting Python.md)
+  * [安装Pygame](Chapter1_Installing Python and Pygame/07_Installing Pygame.md)
 * Chapter II
   * [2.1](Chapter2_Pygame Basics/1.md)
   * [2.2](Chapter2_Pygame Basics/2.md)
